@@ -72,6 +72,7 @@
 
 
 ### Books
+[SQL: Everything You Need to Know to Begin Programming in SQL](https://www.amazon.co.uk/dp/1712962493)
 
 ## Deep Learning
 ### Online courses
