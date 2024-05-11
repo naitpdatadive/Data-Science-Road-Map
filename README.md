@@ -5,10 +5,10 @@ This repository is your go-to resource hub for all things related to data scienc
 
 
 ## Project Structure
-.
-├── Getting_started.md  # Blog post about data science
-├── README.md
-└── Resources.md # Books, Online courses and other useful materials
+
+├── Getting_started.md  # Blog post about data science <br>
+├── README.md <br>
+└── Resources.md # Books, Online courses and other useful materials <br>
 
 ## Getting Started
 To kickstart your learning adventure, head over to the Getting_started.md. This curated collection of blog posts offers insights, tips, and tutorials to help you navigate the fundamentals of data science. From understanding key concepts to practical applications, these articles provide a solid foundation for your learning path.
