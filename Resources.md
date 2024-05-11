@@ -40,6 +40,8 @@
 
 [Essence of calculus - 3Blue1 Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDMsr9K-rj53DwVRMYO3t5Yr)
 
+[10-600 Math Background for ML](https://www.youtube.com/watch?v=7MN3OP1IYk8&list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg)
+
 
 ## Python
 ### Online courses
@@ -100,6 +102,8 @@
 ## Deep Learning
 ### Online courses
 [Practical Deep Learning - Fastai](https://course.fast.ai/)
+[Introduction to deeplearnin -MIT](http://introtodeeplearning.com/)
+[NYU Deep learning FL22](https://www.youtube.com/playlist?list=PLLHTzKZzVU9d_3TcHbyiAjl5qCbpJR-o0)
 
 
 ### Books
@@ -115,9 +119,16 @@
 [R for Data Science: Import, Tidy, Transform, Visualize, and Model Data](https://www.amazon.co.uk/Data-Science-Transform-Visualize-Model/dp/1492097403)
 
 
+## Portfolio
+- [Guided Projects](https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects?tab=readme-ov-file)
+
+## Interviews
+[ML Interview - Youssef Hosni](https://www.linkedin.com/feed/update/urn:li:activity:7193990960748314626/)
+
+## Others
+[Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering?tab=readme-ov-file#machine-learning-engineering-open-book)
+
+
 References
 - https://roadmap.sh/ai-data-scientist
 - https://aigents.co/learn/roadmaps/data-science-roadmap
-
-## Portfolio
-- [Guided Projects](https://github.com/youssefHosni/Awesome-AI-Data-Guided-Projects?tab=readme-ov-file)
