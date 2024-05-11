@@ -108,7 +108,7 @@
 
 
 ### Books
-- [Deep Leraning By Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+- [Deep Learning By Ian Goodfellow, Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 
 ## R
 ### Online courses
