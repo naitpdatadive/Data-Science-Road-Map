@@ -70,6 +70,8 @@
 ## Machine learning
 ### Online courses
 [ML-Course-AI](https://mlcourse.ai/book/topic01/topic01_intro.html)
+[Google amchine learning -foundational courses](https://developers.google.com/machine-learning/foundational-courses)
+[Google amchine learning - advanced courses](https://developers.google.com/machine-learning/advanced-courses)
 [Data Science A-Z: Hands-On Exercises & ChatGPT Prize -2024](https://www.udemy.com/course/datascience/?couponCode=KEEPLEARNING)
 
 ### Books
