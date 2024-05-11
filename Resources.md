@@ -72,7 +72,7 @@
 - [ML-Course-AI](https://mlcourse.ai/book/topic01/topic01_intro.html)
 - [Google amchine learning -foundational courses](https://developers.google.com/machine-learning/foundational-courses)
 - [Google amchine learning - advanced courses](https://developers.google.com/machine-learning/advanced-courses)
-- [Data Science A-Z: Hands-On Exercises & ChatGPT Prize -2024](https://www.udemy.com/course/datascience/?couponCode=KEEPLEARNING)
+- [Data Science A-Z: Hands-On Exercises & ChatGPT Prize -2024](https://www.udemy.com/course/datascience)
 
 ### Books
 - [Hands-On Machine Learning with Scikit-Learn](https://www.amazon.co.uk/Hands-Machine-Learning-Scikit-Learn-TensorFlow/dp/1098125975)
@@ -125,6 +125,8 @@
 
 ## Interviews
 - [ML Interview - Youssef Hosni](https://www.linkedin.com/feed/update/urn:li:activity:7193990960748314626/)
+- [Job search, Python for Data Structures, Algorithms, and Interviews](https://www.udemy.com/course/python-for-data-structures-algorithms-and-interviews)
+- [Python Data Structures & Algorithms + LEETCODE Exercises](https://www.udemy.com/course/data-structures-algorithms-python)
 
 ## Others
 - [Machine Learning Engineering Open Book](https://github.com/stas00/ml-engineering?tab=readme-ov-file#machine-learning-engineering-open-book)
